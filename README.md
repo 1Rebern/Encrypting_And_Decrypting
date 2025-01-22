@@ -10,12 +10,12 @@ Programming language:
 * Python.
 
 Libraries and frameworks:
-* PySide6 (Qt) – to create a graphical interface.
-* Cryptography – to work with RSA encryption/decryption.
-* re – to search for keys using regular expressions.
+* PySide6 (Qt) - to create a graphical interface.
+* Cryptography - to work with RSA encryption/decryption.
+* re - to search for keys using regular expressions.
 
 Python system modules:
-* os, random, sys – to work with the file system and generate keys.
+* os, random, sys - to work with the file system and generate keys.
 
 # Program view
 * Caesar menu view:<p><img src = "https://github.com/1Rebern/encrypting-and-decrypting/blob/main/preview/main_caesar.png?raw=true">
